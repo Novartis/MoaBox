@@ -1,5 +1,10 @@
-## Readme (draft)
+## Readme
 A repository of compound-target annotations in support of Systematic Chemogenetic Library Assembly
+
+Supplementary materials to accompany [bioRxiv](https://www.biorxiv.org/) preprint manuscript [Systematic Chemogenetic Library Assembly](https://www.biorxiv.org/content/10.1101/2020.03.30.017244v1)
+
+### Copyright 
+The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a [CC-BY-NC-ND 4.0 International license](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Abstract
 The assembly of chemogenetic libraries composed of chemical probes provides tremendous value to biomedical research, but requires substantial effort to ensure diversity as well as quality of the contents. We are assembling a chemogenetic library by data mining and crowdsourcing institutional expertise. We are sharing our methodology, lessons learned, and disclosing our current collection of 4186 compounds with their primary annotated gene targets. 
